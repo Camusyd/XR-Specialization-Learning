@@ -1,0 +1,17 @@
+digraph UseCases_XR_Education {
+	rankdir=LR size="8,5"
+	node [fontname=Arial fontsize=12 shape=ellipse style=filled]
+	Student [label=Estudiante fillcolor="#AED6F1" shape=box]
+	Teacher [label=Profesor fillcolor="#F9E79F" shape=box]
+	Lab [label="Laboratorios virtuales" fillcolor="#ABEBC6"]
+	History [label="Aprendizaje inmersivo de historia" fillcolor="#ABEBC6"]
+	Science [label="Simulaciones de ciencias" fillcolor="#ABEBC6"]
+	Manage [label="Configurar experiencias XR" fillcolor="#F5CBA7"]
+	Student -> Lab
+	Student -> History
+	Student -> Science
+	Teacher -> Manage
+	Teacher -> Lab
+	Teacher -> History
+	Teacher -> Science
+}
