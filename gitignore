@@ -1,18 +1,18 @@
 # Entorno virtual
 .venv/
 
-# Archivos de Python compilados
+## Archivos de Python compilados
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Archivos de sistema / IDEs
+## Archivos de sistema / IDEs
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 
-# Archivos temporales
+## Archivos temporales
 *.log
 *.tmp
 
