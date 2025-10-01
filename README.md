@@ -37,21 +37,6 @@ Los estudiantes desarrollan una **mentalidad de diseño (design thinking)** y un
 
 ---
 
-## 📚 Curso 1: Introducción a la XR  
-
-### ✅ Módulo 1: Terminología y Aplicaciones
-- Comprensión de las diferencias conceptuales entre **AR, VR, MR y XR**.  
-- Clasificación de aplicaciones a lo largo del **Continuo Realidad–Virtualidad**.  
-- Prueba de aplicaciones XR accesibles desde PC o móvil (sin visor dedicado).  
-- Documentación de experiencias y reflexiones en `/modulo1`.  
-
-📌 Entregables:  
-- Resúmenes y apuntes.  
-- Capturas de aplicaciones probadas.  
-- Reportes de clasificación.  
-
----
-
 ## 🗂 Estructura del Repositorio  
 
 - modulo1 -> Terminología y Aplicaciones (apuntes + pruebas de apps)
@@ -69,6 +54,33 @@ Los estudiantes desarrollan una **mentalidad de diseño (design thinking)** y un
 2. Integrar **conceptos, tecnologías y reflexiones** en cada módulo.  
 3. Desarrollar un **proyecto integrador XR** al final de la especialización.  
 4. Convertir este repositorio en una **referencia para otros aprendices de XR**.  
+
+---
+
+## 🔗 Recursos Relevantes
+
+- [Curso en Coursera: XR for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
+- [Documentación de Graphviz](https://graphviz.org/documentation/)
+- [WebXR API](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+
+
+---
+
+## 🛠 Tecnologías y Herramientas
+
+- Python (Graphviz, Matplotlib, Pandas)
+- Markdown
+- WebXR (exploraciones futuras)
+- Unity / Unreal Engine (planificado para módulos posteriores)
+
+---
+
+## 🚀 Próximos pasos
+
+- Agregar módulos 2, 3 y 4 con teoría, diagramas y reflexiones.
+- Incluir ejemplos de prototipos XR con WebXR, Unity o Unreal.
+- Integrar un proyecto final con documentación, gráficos y resultados.
+
 
 ---
 
