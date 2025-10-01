@@ -5,7 +5,7 @@ Se trata de una serie de **3 cursos** diseñados para ofrecer una experiencia in
 
 ---
 
-## 📊 Resumen Ejecutivo  
+## 📊 Resumen 
 
 El ecosistema XR (Realidad Extendida) —que incluye **Realidad Aumentada (AR), Realidad Virtual (VR) y Realidad Mixta (MR)**— está transformando la forma en que interactuamos con la información, el entretenimiento y la educación.  
 
@@ -38,11 +38,11 @@ Este repositorio crecerá **módulo por módulo** a lo largo de los tres cursos,
 
 ## 🗂 Repository Structure  
 
-/modulo1 -> Terminología y Aplicaciones (apuntes + pruebas de apps)
-/modulo2 -> Conceptos y Tecnologías
-/modulo3 -> Tendencias y Problemas
-/modulo4 -> Estrategia XR
-/proyecto_final -> Proyecto Integrador XR
+- modulo1 -> Terminología y Aplicaciones (apuntes + pruebas de apps)
+- modulo2 -> Conceptos y Tecnologías
+- modulo3 -> Tendencias y Problemas
+- modulo4 -> Estrategia XR
+- proyecto_final -> Proyecto Integrador XR
 
 
 ---
