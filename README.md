@@ -35,9 +35,6 @@ Este repositorio crecerá **módulo por módulo** a lo largo de los tres cursos,
 
 ## 🗂 Estructura del Repositorio  
 
-
-## 🗂 Repository Structure  
-
 - modulo1 -> Terminología y Aplicaciones (apuntes + pruebas de apps)
 - modulo2 -> Conceptos y Tecnologías
 - modulo3 -> Tendencias y Problemas
