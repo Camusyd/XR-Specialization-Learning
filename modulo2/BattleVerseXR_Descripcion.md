@@ -72,11 +72,13 @@ La **Realidad Virtual (VR)** ofrece la mejor opción para este escenario, al pro
 ---
 
 ## 🖼️ Material de Apoyo
-**Archivo:** `BattleVerseXR_QOC.png`  
+
+**Análisis QOC:**  
+![BattleVerseXR_QOC](Pics/BattleVerseXR_QOC.png)  
 Representación visual del análisis QOC con las preguntas, opciones, criterios y la selección final.
 
 **Imagen conceptual:**  
-**Archivo:** `BattleVerseXR_pic.png`
+![BattleVerseXR_pic](Pics/BattleVerseXR_pic.png)  
 🎮 Futurista colaborativo: avatares con cascos VR en un entorno digital azul o púrpura, conectando sus manos como símbolo de trabajo en equipo.
 
 ---
@@ -86,5 +88,3 @@ Representación visual del análisis QOC con las preguntas, opciones, criterios 
 
 ---
 
-📄 **Archivo asociado:** `BattleVerseXR_QOC.png`  
-📘 **Documento:** `BattleVerseXR_Descripcion.pdf`
