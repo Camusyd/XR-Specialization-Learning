@@ -27,4 +27,4 @@ El flujo comienza con la pregunta **“¿Qué tipo de experiencia deseas crear?�
 El diagrama final —guardado como **`XR_Flujo_Decision.png`**— resume la **lógica de selección tecnológica** de manera clara y visual.  
 Fue generado mediante código Python para mantener la trazabilidad y poder reproducir el análisis dentro del repositorio del módulo.
 
-![XR_Flujo_Decision](Pics/XR_Flujo_Decision.png)
+![XR_Flujo_Decision](Pics/XR_Flujo_Decision2.png)
