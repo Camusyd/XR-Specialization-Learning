@@ -4,17 +4,17 @@ matplotlib==3.7.1
 seaborn==0.12.2
 plotly==5.16.1
 
-# Librerías para manipulación de datos
+## Librerías para manipulación de datos
 pandas==2.1.0
 numpy==1.26.0
 
-# Librerías para interacción y aplicaciones web (para posibles demos XR con WebXR)
+## Librerías para interacción y aplicaciones web (para posibles demos XR con WebXR)
 flask==2.3.4
 dash==3.13.1
 
-# Librerías de utilidades
+## Librerías de utilidades
 requests==2.32.0
 
-# Opcional: Jupyter para pruebas interactivas
+### Opcional: Jupyter para pruebas interactivas
 jupyter==1.0.0
 notebook==7.9.1
