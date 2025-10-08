@@ -75,6 +75,7 @@ La **Realidad Virtual (VR)** ofrece la mejor opción para este escenario, al pro
 
 **Análisis QOC:**  
 ![BattleVerseXR_QOC](Pics/BattleVerseXR_QOC.png)  
+
 Representación visual del análisis QOC con las preguntas, opciones, criterios y la selección final.
 
 **Imagen conceptual:**  
