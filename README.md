@@ -22,7 +22,7 @@ Este contenido forma parte de la especialización **Extended Reality for Everybo
 | :--- | :--- |
 | **Especialización Completa** | [Extended Reality for Everybody Specialization](https://www.coursera.org/specializations/extended-reality-for-everybody) |
 | **Curso 1 Completado** | [AR/VR/MR/XR: Technologies, Applications & Issues](https://www.coursera.org/learn/intro-augmented-virtual-mixed-extended-reality-technologies-applications-issues?specialization=extended-reality-for-everybody) |
-| **Certificado del Curso 1** | [Verificación del Certificado](https://www.coursera.org/account/accomplishments/verify/1KVZV3UFZED8) |
+| **Certificado del Curso 1** | [Verificación del Certificado](https://coursera.org/share/6b24ad4a3f74e1e532eb9e47deb80279) |
 
 ---
 
