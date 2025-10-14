@@ -12,7 +12,17 @@ Este repositorio documenta mi recorrido en la especialización de la **Universid
    Principios de UX/UI aplicados a experiencias inmersivas y diseño de interacciones en XR.  
 
 3. **Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal** (32h)  
-   Desarrollo práctico de aplicaciones XR usando herramientas líderes de la industria.  
+   Desarrollo práctico de aplicaciones XR usando herramientas líderes de la industria.
+
+## 📜 Links
+
+Este contenido forma parte de la especialización **Extended Reality for Everybody Specialization** en Coursera.
+
+| Elemento | Enlace |
+| :--- | :--- |
+| **Especialización Completa** | [Extended Reality for Everybody Specialization](https://www.coursera.org/specializations/extended-reality-for-everybody) |
+| **Curso 1 Completado** | [AR/VR/MR/XR: Technologies, Applications & Issues](https://www.coursera.org/learn/intro-augmented-virtual-mixed-extended-reality-technologies-applications-issues?specialization=extended-reality-for-everybody) |
+| **Certificado del Curso 1** | [Verificación del Certificado](https://www.coursera.org/account/accomplishments/verify/1KVZV3UFZED8) |
 
 ---
 
@@ -75,20 +85,9 @@ Los estudiantes desarrollan una **mentalidad de diseño (design thinking)** y un
 
 ---
 
-## 🚀 Próximos pasos
-
-- Agregar módulos 2, 3 y 4 con teoría, diagramas y reflexiones.
-- Incluir ejemplos de prototipos XR con WebXR, Unity o Unreal.
-- Integrar un proyecto final con documentación, gráficos y resultados.
-
-
----
-
 ## 📜 Licencia  
 
 Este proyecto está bajo licencia **MIT**. Libre de explorar, aprender y adaptar.  
 
----
-✨ *La Realidad Extendida no es solo el futuro: ya está aquí, y este repositorio es mi primer paso hacia ella.*  
 
 
