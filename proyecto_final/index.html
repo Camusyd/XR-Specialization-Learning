@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>XR Museum Guide</title>
+
+    <!-- A-Frame y AR.js -->
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+
+    <!-- Archivo JS propio -->
+    <script src="script.js" defer></script>
+
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        font-family: 'Segoe UI', sans-serif;
+      }
+
+      #info {
+        position: fixed;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.6);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 8px;
+        font-size: 14px;
+        text-align: center;
+        z-index: 2;
+      }
+
+      #btnAudio {
+        background: #00bfa5;
+        border: none;
+        color: white;
+        padding: 10px 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-weight: bold;
+        margin-left: 8px;
+      }
+
+      #btnAudio:hover {
+        background: #009e8f;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="info">
+      🎨 Escanea la imagen de la <b>Mona Lisa</b> para ver el modelo en 3D
+      
+    </div>
+
+    <a-scene
+      embedded
+      arjs="sourceType: webcam; debugUIEnabled: false;"
+      vr-mode-ui="enabled: false"
+    >
+      <!-- Luz -->
+      <a-entity light="type: ambient; color: #fff"></a-entity>
+
+      <!-- Cámara -->
+      <a-entity camera></a-entity>
+
+      <!-- Marcador con modelo 3D -->
+      <a-marker
+        type="pattern"
+        url="markers/monalisa.patt"
+        id="markerMonalisa"
+      >
+        <a-entity
+          gltf-model="models/sculpture.glb"
+          scale="0.5 0.5 0.5"
+          rotation="0 180 0"
+          position="0 0 0"
+        ></a-entity>
+      </a-marker>
+
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>
